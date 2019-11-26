@@ -22,3 +22,6 @@ tugas10.3+uts10.35+uas1*0.35
 
 # Hasil Program 4
 <img width="466" alt="Untitled" src="https://user-images.githubusercontent.com/57052783/69491320-70bba000-0e48-11ea-8e8f-754c266eed2e.png">
+
+# Flowchart Program 4
+![Flowchart1](https://user-images.githubusercontent.com/57052783/69632695-1e26e300-1004-11ea-983d-85d5eb978a4a.jpg)
